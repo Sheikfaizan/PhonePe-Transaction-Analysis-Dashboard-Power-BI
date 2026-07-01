@@ -1,0 +1,2 @@
+# PhonePe-Transaction-Analysis-Dashboard-Power-BI
+The PhonePe Transaction Analysis Dashboard is a Business Intelligence project developed using Power BI to analyze digital payment trends across India. Using the PhonePe Pulse dataset, the dashboard provides comprehensive insights into transaction volume, transaction value, and payment categories across different states, districts, and time periods.
